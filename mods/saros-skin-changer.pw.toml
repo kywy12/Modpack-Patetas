@@ -1,0 +1,13 @@
+name = "Saro´s Skin Changer"
+filename = "Saros-Skin-Changer-Forge-1.20.1-1.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Gf8kVfEk/versions/5ezT3gaG/Saros-Skin-Changer-Forge-1.20.1-1.3.1.jar"
+hash-format = "sha512"
+hash = "77e303bd49c4123ffb3efbd63382b9cb6d1fe7b0f1108c84bac01b54ab48bc615e955c4ef106c0afe57ba879e11422b9c0ff39b7bd4e75f14720ba2e56e6fdde"
+
+[update]
+[update.modrinth]
+mod-id = "Gf8kVfEk"
+version = "5ezT3gaG"
