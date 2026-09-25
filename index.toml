@@ -61,11 +61,6 @@ hash = "f35748c9b332d0ff68203197dd648b9daf9b8e1c4060a3222d3e91cd08860637"
 metafile = true
 
 [[files]]
-file = "mods/omega-recon.pw.toml"
-hash = "cf586e214a8d72a17a6c6356e88c5a9924963b780110625c16084c794c6f5d0e"
-metafile = true
-
-[[files]]
 file = "mods/yacl.pw.toml"
 hash = "f3b3d035b89519faccc4ddd8b0b4407ce96c0eb49068fe50a445d43a3baa8bea"
 metafile = true
