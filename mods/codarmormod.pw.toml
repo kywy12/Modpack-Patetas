@@ -1,0 +1,13 @@
+name = "CodArmor"
+filename = "CodArmor-0.1.1-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qa8QnrDn/versions/7Gm1cFKI/CodArmor-0.1.1-beta.jar"
+hash-format = "sha512"
+hash = "8dbbf733de4ddab856b1a96887e5265f8b2f12a20f2d78ca6d8f8aa77f7c6f00737beae556b6d7991dc2841b9d3772bcec3a2c8820a9123a8002826a5472ea0e"
+
+[update]
+[update.modrinth]
+mod-id = "qa8QnrDn"
+version = "7Gm1cFKI"
