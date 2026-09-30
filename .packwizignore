@@ -1,0 +1,7 @@
+.github/
+.gitignore
+.gitattributes
+adicionar-mods.sh
+packwiz-installer-bootstrap.jar
+pack.toml
+index.toml
