@@ -25,17 +25,9 @@ jobs:
           export PATH=$PATH:$(go env GOPATH)/bin
           go install github.com/packwiz/packwiz@main
 
-      - name: Verificar instalação
-        run: |
-          export PATH=$PATH:$(go env GOPATH)/bin
-          which packwiz
-          packwiz --version
-
       - name: Refresh packwiz index
         run: |
           export PATH=$PATH:$(go env GOPATH)/bin
-          pwd
-          ls -la
           packwiz refresh
 
       - name: Commit and push changes
