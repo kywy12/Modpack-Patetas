@@ -20,14 +20,22 @@ jobs:
         with:
           go-version: '1.21'
 
-      - name: Install packwiz (versão estável)
+      - name: Install packwiz
         run: |
           export PATH=$PATH:$(go env GOPATH)/bin
-          go install github.com/packwiz/packwiz@v0.5.14
+          go install github.com/packwiz/packwiz@main
+
+      - name: Verificar instalação
+        run: |
+          export PATH=$PATH:$(go env GOPATH)/bin
+          which packwiz
+          packwiz --version
 
       - name: Refresh packwiz index
         run: |
           export PATH=$PATH:$(go env GOPATH)/bin
+          pwd
+          ls -la
           packwiz refresh
 
       - name: Commit and push changes
