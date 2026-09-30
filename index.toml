@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".github/workflows/refresh.yml"
-hash = "ce966f343c0a417455763261e28c617a9ae2cbef494d6ca139b7b007fdb5f0f7"
+hash = "12f99b7dbdb619390004ed571f6319988d2df80324162788a5de3dfdaae4daa6"
 
 [[files]]
 file = "adicionar-mods.sh"
