@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/refresh.yml"
-hash = "12f99b7dbdb619390004ed571f6319988d2df80324162788a5de3dfdaae4daa6"
-
-[[files]]
-file = "adicionar-mods.sh"
-hash = "6ece5ef42747cf9376a409c21a99f827815982377f4081d74b67a16c3e6acd7e"
-
-[[files]]
 file = "mods/amendments.pw.toml"
 hash = "5922845f6c9bb57548eca500857ebd2268bffe3799373b7306c2bdfb706d5f95"
 metafile = true
