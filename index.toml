@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/refresh.yml"
+hash = "12f99b7dbdb619390004ed571f6319988d2df80324162788a5de3dfdaae4daa6"
+
+[[files]]
 file = "adicionar-mods.sh"
 hash = "6ece5ef42747cf9376a409c21a99f827815982377f4081d74b67a16c3e6acd7e"
 
@@ -42,6 +46,11 @@ metafile = true
 [[files]]
 file = "mods/codarmormod.pw.toml"
 hash = "823f3ce1d59da2d4d38ab1049de13089202cb3c40b1055bf703f6ea79d42cb1c"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
 metafile = true
 
 [[files]]
