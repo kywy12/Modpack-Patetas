@@ -66,11 +66,6 @@ hash = "903352ffbd84d4b95fed905893f4715d9c3f88ec9fff6fb06f6e359e0b839dc3"
 metafile = true
 
 [[files]]
-file = "mods/corpse-x-cosmetic-armor-reworked-compat.pw.toml"
-hash = "28538b27a8e14435af060e940b310d4247e90346e1716f475e9653864bbbb51d"
-metafile = true
-
-[[files]]
 file = "mods/corpse.pw.toml"
 hash = "2fba2317a375669ccb1376525d4d4e0d1903cc5dc44fc70dce1d0e3dbb6aacb1"
 metafile = true
