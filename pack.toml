@@ -1,0 +1,13 @@
+name = "PATETAS-MODPACK"
+author = "Sabino"
+version = "1.20.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c1caedd64fb23d1cf28c689695ba0aa7a490e0f27a75b2929742741e45de3b52"
+
+[versions]
+forge = "47.2.0"
+minecraft = "1.20.1"
