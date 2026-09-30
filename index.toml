@@ -111,10 +111,6 @@ hash = "9742482a86605e87c3ded2fe70cd01a841faf8a93929d5a2a7048d39f9c00f7b"
 metafile = true
 
 [[files]]
-file = "mods/index.toml"
-hash = "6c5ef3f4c81d8c48d28e09e2b71bba75b5091af3ba9621b1f02cd25caa2236c0"
-
-[[files]]
 file = "mods/jade.pw.toml"
 hash = "5d03d20b037a8b7a4765ded0e25146fc970964be46401dff5f9b1059875084e8"
 metafile = true
