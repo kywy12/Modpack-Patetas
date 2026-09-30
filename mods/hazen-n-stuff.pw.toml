@@ -1,0 +1,13 @@
+name = "Hazen 'n Stuff"
+filename = "hazennstuff-watered-down-edition-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/I94FeWYD/versions/4opC9DbH/hazennstuff-watered-down-edition-1.1.2.jar"
+hash-format = "sha512"
+hash = "2b120543258d29ba2d68ca75bdc21dd748b3dd2f2a3090e80bae032ca4c3124fb89ee608ff9f6ed1f4cd4fedc368a300fb71ef99097eef8fba7879d63f9116cb"
+
+[update]
+[update.modrinth]
+mod-id = "I94FeWYD"
+version = "4opC9DbH"
