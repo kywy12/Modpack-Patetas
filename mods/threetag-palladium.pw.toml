@@ -1,0 +1,13 @@
+name = "Palladium"
+filename = "palladium-4.5.9+1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lt2zd42r/versions/cR8uBzEl/palladium-4.5.9%2B1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "0c44a6d30fbfd57c1c44231ebaf0ca43011cd9996bcf2ae3d789228db7206f047b430ab2f2c261895677e2b7244a79968c156c41e61959e2d5613f89b884aca4"
+
+[update]
+[update.modrinth]
+mod-id = "lt2zd42r"
+version = "cR8uBzEl"
