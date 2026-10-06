@@ -1,0 +1,13 @@
+name = "Storage Peek"
+filename = "storage_peek-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/C8kbmjMm/versions/HEHKwe1X/storage_peek-1.0.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "3f7f39df8f87b038786686ec75f3bdab6d9c1d4e5fe50e14330edd2ed232a9fe6d93214038815e686896c3b0c7ab6903b4789f1b3b4ad79eda391f1438431d7c"
+
+[update]
+[update.modrinth]
+mod-id = "C8kbmjMm"
+version = "HEHKwe1X"
