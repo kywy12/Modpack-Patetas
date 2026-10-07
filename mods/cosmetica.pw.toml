@@ -1,0 +1,13 @@
+name = "Cosmetica"
+filename = "cosmetica-forge-2.0.1-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/s9hF9QGp/versions/Xdz0ijT7/cosmetica-forge-2.0.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "c35445e58edb8fa93c76196547914916c38721e78fb19bf56a3a9a887b732532f088b5f0d956c926dc2f91dd382635889a79c6f7236973c4218c59d81096af27"
+
+[update]
+[update.modrinth]
+mod-id = "s9hF9QGp"
+version = "Xdz0ijT7"
