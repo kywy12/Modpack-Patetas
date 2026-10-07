@@ -1,0 +1,13 @@
+name = "MINECRAFT DOS PATETAS"
+author = "SABINO"
+version = "1.20.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "fc4d7a584361b6f6fc758b0c7d2656ae3a91d9dee6b446de0026a3328f7a4a09"
+
+[versions]
+forge = "47.4.23"
+minecraft = "1.20.1"
