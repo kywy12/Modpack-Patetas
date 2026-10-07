@@ -1,0 +1,13 @@
+name = "Stephatea's Modular Armour"
+filename = "armour-1.0.16.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1b2szadu/versions/ETyJOFB1/armour-1.0.16.jar"
+hash-format = "sha512"
+hash = "195910c16d7017bbfc6b123d830c6f2492074f56b611dace01b93373d5b7e64dc9c729d7335c377429ea859195adc2d241bbcd02ff0f032984d7d274eef73308"
+
+[update]
+[update.modrinth]
+mod-id = "1b2szadu"
+version = "ETyJOFB1"
